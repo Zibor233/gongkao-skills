@@ -1,0 +1,21 @@
+{
+  "education": "本科",
+  "degree": "学士",
+  "major": ["计算机科学与技术", "软件工程"],
+  "major_codes": ["080901", "080902"],
+  "political_status": "群众",
+  "grassroots_years": 0,
+  "service_program": "无",
+  "fresh_graduate": true,
+  "graduate_year": 2027,
+  "regions": ["湖北", "湖南"],
+  "english": {
+    "cet4": true,
+    "cet6": false
+  },
+  "accept_service_years": true,
+  "max_service_years": 5,
+  "accept_intensity": true,
+  "gender": "男",
+  "hukou": "湖北"
+}
