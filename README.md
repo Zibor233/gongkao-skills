@@ -47,7 +47,7 @@ Skill 的安装位置是 `.trae/skills/`，可以把整个仓库或单个 Skill 
 ### 方式一：clone 后复制（推荐）
 
 ```bash
-git clone https://github.com/zibor233/gongkao-skills.git
+git clone https://github.com/Zibor233/gongkao-skills.git
 ```
 
 把需要的 Skill 目录复制到工程的 `.trae/skills/` 下：
@@ -67,7 +67,7 @@ Windows 下用资源管理器直接拖进去也一样。装好后重启会话，
 只要选岗：
 
 ```bash
-git clone --depth 1 https://github.com/zibor233/gongkao-skills.git
+git clone --depth 1 https://github.com/Zibor233/gongkao-skills.git
 # 只复制 skills/guokao-job-screener/ 到 .trae/skills/
 ```
 
